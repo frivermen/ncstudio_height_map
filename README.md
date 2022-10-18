@@ -8,6 +8,7 @@
 > python g31_to_g65_p1005.py your_gcode.nc
 
 3.Запускаем отредактированный your_gcode.nc на ЧПУ
+
 4.Парсим лог NCSTUDIO.LOG при помощи
 > python log_to_coords.py path_to_program_dir/NCSTUDIO.LOG
 
