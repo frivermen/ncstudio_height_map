@@ -12,6 +12,7 @@
 > python log_to_coords.py path_to_program_dir/NCSTUDIO.LOG
 
 5.В каталоге с log_to_coords.py будет создан файл clean_coords.txt, но в машинных координатах, а не логических. 
+
 6.Если нужные логические
 > python recalc_to_zero_coord.py clean_coords.txt
 
